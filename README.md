@@ -8,7 +8,7 @@ review .
 ## 👥 Участники  
 - Ainur (@https://github.com/ainshine)  
 - Huseinjon (https://github.com/Husein-N)  
-- Nurbek (@GitHub-ник)  
+- Nurbek (https://github.com/shigexei)  
 
 ## 🛠️ Технологии  
 - Frontend: Angular  
